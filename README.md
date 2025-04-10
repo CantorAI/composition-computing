@@ -18,7 +18,7 @@ With this example, you will be able to login to CantorAI Design Studio for the f
 
 ##### Concepts:
 
-- **CantorAI Design Studio**: It is a front-end tool designed to 
+- `**CantorAI Design Studio**: It is a front-end tool designed to 
 
   - ease most of your configurations of your composition computing network with simple mouse clicks and a few keystrokes,
 
@@ -69,5 +69,36 @@ Concepts:
 ### Monitoring System with Dashboard
 
 ### Model Integration 
+
+### Annotations
+
+Annotation refers to **labeling data** to train algorithms. For example:
+
+- Labeling photos of cats and dogs.
+- Tagging parts of speech in a sentence.
+- Highlighting spam in emails.
+- Marking bounding boxes around objects in videos.
+
+Annotations are needed in large-scale machine learning tasks, especially: 
+
+**Supervised Learning** – Most ML models learn from labeled (annotated) data.
+
+**Accuracy & Performance** – Better annotations → better training → better model results.
+
+**Bias Reduction** – Well-annotated, diverse data helps models make fairer predictions.
+
+**Interpretability** – Annotated examples help humans understand what models are learning.
+
+In CantorAI Design Studio, we provide a few key annotation functions: 
+
+Image Annotations
+
+[An Example of Image Annotation in CantorAI Design Studio](image-annotation.md)
+
+Automatic Annotations
+
+Also, there are several tools for annotations.
+
+Format Converter
 
 ### Training
