@@ -1,3 +1,5 @@
+# 计算架构
+
 以下是关于云计算、边缘计算和端计算的对比表格：
 
 | **特性**     | **云计算**                                                   | **边缘计算**                                                 | **端计算**                                                   |
@@ -10,20 +12,20 @@
 
 - **云计算**：适合大规模、复杂计算，但依赖网络，延迟较高。
 
-  ![image-20250408174321331](/Users/zonghuanwu/github/composition-computing/images/cloud-computing-architecture.png)
+  ![image-20250408174321331](images/cloud-computing-architecture.png)
 
 - **边缘计算**：适合低延迟、实时性要求高的场景，但资源有限。
 
-  ![image-20250408173317034](/Users/zonghuanwu/github/composition-computing/images/edge-computing-architecture.png)
+  ![image-20250408173317034](images/edge-computing-architecture.png)
 
 - **端计算**：适合隐私要求高或网络条件差的场景，但受设备性能限制。
 
 There are many different computing architectures, including but not limited to: Mobile Cloud Computing, Mobile Edge Computing, Dew Computing, Fog-Dew Computing.
 
-![image-20250408175229880](/Users/zonghuanwu/github/composition-computing/images/other-computing-architectures.png) 
+![image-20250408175229880](images/other-computing-architectures.png) 
 
 组合计算的架构：
 
-![已生成图片](/Users/zonghuanwu/github/composition-computing/images/composition-computing-architecture.png)
+![已生成图片](images/composition-computing-architecture.png)
 
 在组合计算的架构里，第一视角不再是区分云、边、端等不同的网络和不同的设备。在组合计算网络里，每一个具有计算能力的节点被认为是具有不同能力的资源，网络是具有不同带宽和速度的数据管道，任务的完成以最优化全网络资源分配的基本原则完成。

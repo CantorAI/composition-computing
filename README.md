@@ -3,12 +3,15 @@
 ## 组合计算：一种新型的计算架构
 ### [组合计算](composition-computing.md)
 
-### [云计算、边缘计算和端计算](3-computing-architectures.md)
-
-### [基于云计算、边缘计算和端计算的技术方案](computing-solutions.md)
 ### [计算发展的历史和趋势](computing-history-trend.md)
 
+### 当前的计算的架构和技术方案
 
+[计算架构](3-computing-architectures.md)
+
+[技术方案](computing-solutions.md)
+
+### [组合计算的计算架构和CantorAI技术方案](composition-computing-architecture-and-cantorai-solution.md)
 
 ## Examples
 
