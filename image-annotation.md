@@ -20,3 +20,5 @@ CantorAI提供多种标注工具，最常用的就是：
 
 - 多边形（Polygon）边界框标注：用任意多边形精确描绘目标轮廓，更适用于形状不规则的物体（如人、建筑），用于精细语义分割任务（如 Mask R-CNN）等。
 - 骨架结构标注（Skeleton Annotation）：CantorAI Designer Studio还提供了特有的能够快速对人、动物或其他结构物体进行以关键点为基础的骨架结构进行标注的工具。
+
+![image-20250410161927861](C:\GitHub\composition-computing\images\skeleton-annotation.png)
