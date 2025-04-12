@@ -15,95 +15,53 @@
 
 ## Examples
 
-### Installations
+### [CantorAI Installations](cantorai-installations.md) 
 
-CantorAI组合计算框架支持多种机型、多种操作系统。安装了CantorAI计算框架的计算机可以跨操作系统、跨网络地相互连接，方便地组合形成一个算力和计算资源P2P网络。在任何一个节点发起的计算任务，都将由CantorAI计算框架的分布式任务分配根据对任务对计算资源的需要，优化分配给Cantor网络里的符合要求的节点。
+组合计算是跨边端云、跨操作系统的方案
 
-在Linux系统下的安装
+### [Getting Started](getting-started.md)
 
-在Windows系统下的安装
+通过CantorAI Design Studio，在CantorAI网络的计算节点上首次上手体验组合计算。
 
-在树莓派的Raspberry Pi OS系统下的安装
+### [Registrations and Authorizations](cantorai-authorizations.md)
 
-在MacOS系统下的安装
+通过CantorAI Portal，完成租户、用户和节点注册，体验零信任安全机制。
 
-### Getting Started
+### [Join the network](join-the-network.md)
 
-With this example, you will be able to login to CantorAI Design Studio for the first time and enter the gate of the world of CantorAI's composition computing platform. 
+体验如何将多个不同的计算节点构建你的CantorAI网络。
 
-##### Concepts:
+### [Messaging in the network](messaging)
 
-- **CantorAI Design Studio**: It is a front-end tool designed to 
+Hello World! 恭喜，你联通CantorAI Network上的计算资源。
 
-  - ease most of your configurations of your composition computing network with simple mouse clicks and a few keystrokes,
+### [Build a Pipeline](build-pipeline.md)
 
-  - visualize your network assets and their organization, 
+体验通过CantorAI Pipeline的构建来构建一个AI App
 
-  - help to construct your apps with a visualized pipeline building mechanism,
+### [Run a Pipeline](run-pipeline.md)
 
-  - customize dashboard and monitor systemetic, applicational  matrics
+体验一键部署和运行
 
-  - customize the 
+### [Task Scheduling](task-scheduling.md)
 
-  However, CantorAI Design studio should not be regarded as a all-in-one venue to conduct all the development. We do assume its user has reasonable knowledge how CantorAI technology works. 
-  
-  
-  
-  Example：启动CantorAI Design Studio
-  
-  - 在装有Cantor计算框架的任意节点，执行Cantor命令，即可启动Cantor系统。在这个时候，在本机打开互联网浏览器（如chrome，Firefox等），在地址栏输入：https://localhost:9719，则可以运行本机的CantorAI Design Studio。
-  
-    - 第一次启动Cantor系统时，出于安全和许可证验证的要求，系统会要求您在CantorAI将该计算节点注册。您会看到以下界面。计算节点注册需要在CantorAI门户网站完成，详情请参考下一个Node Authorization案例。
-  
-    ![image-20250410163804589](C:\GitHub\composition-computing\images\need-authorization.png)
-  
-  - 当Node Authorization完成以后，再次打开https://localhost:9719 网址，会出现用户登录界面。
-  
-  - ![image-20250410143752245](C:\GitHub\composition-computing\images\login-screenshot.png)
-  
-  - 也可以在浏览器上输入任何一台其它联网节点的IP地址https://ip-address:9719，则可以访问它节点的CantorAI Design Studio。
-  
-    
+一个有资源分配的案例
 
-### Authorization
+### Monitoring
 
-- 租户注册
-- 用户注册
-- 节点注册
+Monitoring System with Dashboard
 
-**CantorAI Portal**:CantorAI
+### [Annotation](annotation.md)
 
-![image-20250410162426942](C:\GitHub\composition-computing\images\authorization.png)
+annotations的功能
 
-**CantorAI Tenants**
+### Training
 
-![image-20250410162216490](C:\GitHub\composition-computing\images\tenant-center.png)
-
-**CantorAI Node**
-
-![image-20250410162710355](C:\GitHub\composition-computing\images\nodes.png)
-
-### Join the network
-
-In this ue case, we will walk you through a use case how to setup a network of heterogeneous computers
-
-**CantorAI Cluster**
-
-**CantorAI Resource**
-
-### Messaging in the network
-
-### Task Scheduling
+## Advanced Topics
 
 ### Building a Webserver
 
-### Preparing a simple pipeline
-
-Concepts:
-
-**pipeline**
-
-**filters**
+服务化应用的开发
 
 ### Building a pipeline for  detecting objects in video
 
@@ -116,39 +74,5 @@ Concepts:
 - filter的写法
   - femma: description的写法（gstreamer）。
 
-### Monitoring System with Dashboard
-
 ### Model Integration 
 
-### Annotations
-
-Annotation refers to **labeling data** to train algorithms. For example
-
-- Labeling photos of objects, such as, cats and dogs.
-- Tagging parts of speech in a sentence.
-- Highlighting spam in emails.
-- Marking bounding boxes around objects in videos.
-
-Annotations are needed in large-scale machine learning tasks, especially: 
-
-**Supervised Learning** – Most ML models learn from labeled (annotated) data.
-
-**Accuracy & Performance** – Better annotations → better training → better model results.
-
-**Bias Reduction** – Well-annotated, diverse data helps models make fairer predictions.
-
-**Interpretability** – Annotated examples help humans understand what models are learning.
-
-In CantorAI Design Studio, we provide a few key annotation functions: 
-
-Image Annotations
-
-[An Example of Image Annotation in CantorAI Design Studio](image-annotation.md)
-
-Automatic Annotations
-
-Also, there are several tools for annotations.
-
-Format Converter
-
-### Training
