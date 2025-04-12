@@ -58,7 +58,7 @@
 | 雾计算 （2010’s）          | 分布式计算     | 边缘计算（网关）                   |
 | CantorAI组合计算（2020’s） | 分布式计算     | 边缘计算（任何计算设备）+ 中心计算 |
 
-![image-20250411181040058](/Users/zonghuanwu/github/composition-computing/images/computing-trend.png)
+![image-20250411181040058](images/computing-trend.png)
 
 **分布式边缘计算的时代意义和价值**
 
