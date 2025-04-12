@@ -6,14 +6,14 @@
 
 **CantorAI Portal**:CantorAI
 
-![image-20250410162426942](images\authorization.png)
+![image-20250410162426942](images/authorization.png)
 
 **CantorAI Tenants**
 
-![image-20250410162216490](images\tenant-center.png)
+![image-20250410162216490](images/tenant-center.png)
 
 **CantorAI Node**
 
-![image-20250410162710355](images\nodes.png)
+![image-20250410162710355](images/nodes.png)
 
 ### 
