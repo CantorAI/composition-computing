@@ -26,10 +26,10 @@ With this example, you will be able to login to CantorAI Design Studio for the f
 
     - 第一次启动Cantor系统时，出于安全和许可证验证的要求，系统会要求您在CantorAI将该计算节点注册。您会看到以下界面。计算节点注册需要在CantorAI门户网站完成，详情请参考下一个Node Authorization案例。
 
-    ![image-20250410163804589](images\need-authorization.png)
+    ![image-20250410163804589](images/need-authorization.png)
 
   - 当Node Authorization完成以后，再次打开https://localhost:9719 网址，会出现用户登录界面。
 
-    ![image-20250410143752245](images\login-screenshot.png)
+    ![image-20250410143752245](images/login-screenshot.png)
 
 - 也可以在浏览器上输入任何一台其它联网节点的IP地址https://ip-address:9719，则可以访问它节点的CantorAI Design Studio。
