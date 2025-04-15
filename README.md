@@ -13,66 +13,75 @@
 
 ### [组合计算的计算架构和CantorAI技术方案](composition-computing-architecture-and-cantorai-solution.md)
 
-## Examples
+计算架构
 
-### [CantorAI Installations](cantorai-installations.md) 
+技术方案
 
-组合计算是跨边端云、跨操作系统的方案
+## 组合计算实例
 
-### [Getting Started](getting-started.md)
+### [安装CantorAI](cantorai-installations.md) 
 
-通过CantorAI Design Studio，在CantorAI网络的计算节点上首次上手体验组合计算。
+组合计算是跨边端云、跨操作系统的方案。本案例展示如何在多型系统上快速安装CantorAI。
+
+### [开始使用](getting-started.md)
+
+本案例展示如何通过CantorAI Design Studio，在CantorAI网络的计算节点上首次上手体验组合计算。
 
 ### [Registrations and Authorizations](cantorai-authorizations.md)
 
-通过CantorAI Portal，完成租户、用户和节点注册，体验零信任安全机制。
+本案例展示如何通过CantorAI门户网站（CantorAI Portal），完成租户、用户和节点注册，体验零信任安全机制。
 
-### [Join the network](join-the-network.md)
+### [组网](join-the-network.md)
 
-体验如何将多个不同的计算节点构建你的CantorAI网络。
+本案例展示如何将多个不同的计算节点构建你的CantorAI网络。
 
-### [Messaging in the network](messaging)
+### [节点间的通信](messaging.md)
 
 Hello World! 恭喜，你联通CantorAI Network上的计算资源。
 
-### [Build a Pipeline](build-pipeline.md)
+### [构建流水线](build-pipeline.md)
 
-体验通过CantorAI Pipeline的构建来构建一个AI App
+通过本案例，体验通过CantorAI Pipeline的构建来构建一个简单的AI App。
 
-### [Run a Pipeline](run-pipeline.md)
+### 一些常用的过滤器
 
-体验一键部署和运行
+这些简单的案例介绍一些常用的过滤器，用它们可以构建流水线
 
-### [Task Scheduling](task-scheduling.md)
+- Tee
+- Femma
+- ...
 
-一个有资源分配的案例
+### [运行流水线](run-pipeline.md)
 
-### Monitoring
+通过本案例，体验一键部署和运行。
 
-Monitoring System with Dashboard
+### [任务规划](task-scheduling.md)
 
-### [Annotation](annotation.md)
+通过本案例，体验资源分配的组合计算任务规划。
 
-annotations的功能
+### 状态监控
 
-### Training
+本案例展示如何通过仪表板监控系统、应用和资源的各种指标。
 
-## Advanced Topics
+### [标注](annotation.md)
 
-### Building a Webserver
+本案例展示标注功能
 
-服务化应用的开发
+### 机器学习训练
 
-### Building a pipeline for  detecting objects in video
+本案例展示如何训练机器学习模型。
 
-现有的Examples
+## 进阶主题
 
-**connectors**
+### 构建一个视频物体识别流水线
 
-### Add a filter
+一个常用的基于视频识别物体的案例。
 
-- filter的写法
-  - femma: description的写法（gstreamer）。
+### 开发Web服务
 
-### Model Integration 
+本案例提供如何通过简单的程序，将组合计算应用流水线能力通过WebI对外开放，通过API服务将功能嵌入其他的系统。
+
+### 模型集成 
+
+通过在设计器中增加新的机器学习模型，将新的过滤器引入系统
 
