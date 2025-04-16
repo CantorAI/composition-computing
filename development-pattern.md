@@ -1,0 +1,1 @@
+![image-20250415193308281](/Users/zonghuanwu/github/composition-computing/images/project-development-pattern.png)

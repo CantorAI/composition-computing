@@ -1,5 +1,26 @@
 # Getting Started
 
+#### **4. Galaxy Studio**
+
+Galaxy Studio 是一个综合性的 GUI 工具，用于设计、管理和部署分布式流水线。
+
+- **流水线设计**：
+  - 提供拖放式界面，用于创建和配置由过滤器组成的流水线。
+  - 支持直观管理连接类型（任务、强连接、弱连接）和数据流。
+
+- **项目管理**：
+  - 集中式仪表盘，用于管理流水线配置和部署。
+  - 简化分布式工作流的协作和版本控制。
+
+- **边缘中心（Edge Hub）**：
+  - 专用 GUI，用于管理边缘设备注册和集群配置。
+  - 支持设备与边缘节点的关联，并提供实时设备状态监控。
+
+- **设备中心（Device Hub）**：
+  - 与 Edge Hub 集成，管理单个设备的状态和配置。
+
+---
+
 With this example, you will be able to login to CantorAI Design Studio for the first time and enter the gate of the world of CantorAI's composition computing platform. 
 
 ##### Concepts:

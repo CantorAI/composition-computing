@@ -11,11 +11,13 @@
 
 [技术方案](computing-solutions.md)
 
-### [组合计算的计算架构和CantorAI技术方案](composition-computing-architecture-and-cantorai-solution.md)
+### 组合计算的计算架构和CantorAI技术方案
 
-计算架构
+[计算架构](composition-computing-architecture.md)
 
-技术方案
+[技术方案](cantorai-solution.md)
+
+[编程模式](programming-pattern.md)
 
 ## 组合计算实例
 
@@ -27,9 +29,13 @@
 
 本案例展示如何通过CantorAI Design Studio，在CantorAI网络的计算节点上首次上手体验组合计算。
 
-### [Registrations and Authorizations](cantorai-authorizations.md)
+### [注册和认证](cantorai-authorizations.md)
 
 本案例展示如何通过CantorAI门户网站（CantorAI Portal），完成租户、用户和节点注册，体验零信任安全机制。
+
+[租户注册和用户注册](tenent-user-registration.md)
+
+[设备注册](node-registration.md)
 
 ### [组网](join-the-network.md)
 
@@ -43,23 +49,23 @@ Hello World! 恭喜，你联通CantorAI Network上的计算资源。
 
 通过本案例，体验通过CantorAI Pipeline的构建来构建一个简单的AI App。
 
-### 一些常用的过滤器
+### [一些常用的过滤器](common-use-filters.md)
 
 这些简单的案例介绍一些常用的过滤器，用它们可以构建流水线
 
 - Tee
-- Femma
+- Fermat
 - ...
 
 ### [运行流水线](run-pipeline.md)
 
 通过本案例，体验一键部署和运行。
 
-### [任务规划](task-scheduling.md)
+### [任务调度](task-scheduling.md)
 
-通过本案例，体验资源分配的组合计算任务规划。
+通过本案例，体验资源分配的组合计算任务调度。
 
-### 状态监控
+### [状态监控和日志](monitoring.md)
 
 本案例展示如何通过仪表板监控系统、应用和资源的各种指标。
 
@@ -67,13 +73,13 @@ Hello World! 恭喜，你联通CantorAI Network上的计算资源。
 
 本案例展示标注功能
 
-### 机器学习训练
+### [机器学习训练](training.md)
 
 本案例展示如何训练机器学习模型。
 
 ## 进阶主题
 
-### 构建一个视频物体识别流水线
+### [构建一个视频物体识别流水线](video-object-detection-pipeline-example.md)
 
 一个常用的基于视频识别物体的案例。
 
@@ -85,3 +91,8 @@ Hello World! 恭喜，你联通CantorAI Network上的计算资源。
 
 通过在设计器中增加新的机器学习模型，将新的过滤器引入系统
 
+### API库
+
+CantorAI API。
+
+### [CantorAI平台的项目开发模式](development-pattern.md)
