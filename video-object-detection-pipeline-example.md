@@ -9,4 +9,4 @@
 4. **交互式应用**：
    - 使用 Player 将流水线输出传递到 Web 应用，实现动态用户交互。
 
-![image-20250415192546105](/Users/zonghuanwu/github/composition-computing/images/video-deployment-scenario.png)
+![image-20250415192546105](/images/video-deployment-scenario.png)

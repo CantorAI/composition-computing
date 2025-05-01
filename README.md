@@ -1,11 +1,11 @@
 # 组合计算 （composition-computing）
 
 ## 组合计算：一种新型的计算架构
-### [组合计算](composition-computing.md)
+### [组合计算](composition-computing.md) 
 
 ### [计算发展的历史和趋势](computing-history-trend.md)
 
-### 当前的计算的架构和技术方案
+### 当前的计算的架构和技术方案​
 
 [计算架构](3-computing-architectures.md)
 
@@ -21,9 +21,9 @@
 
 ## 组合计算实例
 
-### [安装CantorAI](cantorai-installations.md) 
+### [安装CantorAI](cantorai-installations.md)
 
-组合计算是跨边端云、跨操作系统的方案。本案例展示如何在多型系统上快速安装CantorAI。
+组合计算是跨边端云、跨操作系统的方案，可以在多型系统上快速安装CantorAI。
 
 ### [开始使用](getting-started.md)
 
@@ -31,13 +31,19 @@
 
 ### [注册和认证](cantorai-authorizations.md)
 
-本案例展示如何通过CantorAI门户网站（CantorAI Portal），完成租户、用户和节点注册，体验零信任安全机制。
+本案例展示如何通过CantorAI门户网站（CantorAI Portal），完成租户、用户和节点设备注册，体验零信任安全机制。
 
-[租户注册和用户注册](tenent-user-registration.md)
+[租户注册](tenant-registration.md) 
 
-[设备注册](node-registration.md)
+[用户注册](user-registration.md)​ ​
 
-### [组网](join-the-network.md)
+[节点注册](node-registration.md)​ :
+
+[节点检测](node-inspect.md)
+
+### [项目管理](project-management.md)
+
+### [组网](join-the-network.md)​
 
 本案例展示如何将多个不同的计算节点构建你的CantorAI网络。
 
@@ -45,27 +51,27 @@
 
 Hello World! 恭喜，你联通CantorAI Network上的计算资源。
 
-### [构建流水线](build-pipeline.md)
+### 流水线
+
+#### - [构建流水线](build-pipeline.md)
 
 通过本案例，体验通过CantorAI Pipeline的构建来构建一个简单的AI App。
 
-### [一些常用的过滤器](common-use-filters.md)
+#### - [过滤器](filters.md)​​
 
-这些简单的案例介绍一些常用的过滤器，用它们可以构建流水线
+这些简单的案例介绍一些过滤器，用它们可以构建流水线
 
-- Tee
-- Fermat
-- ...
+#### - [流水线连接](connectors.md)
 
-### [运行流水线](run-pipeline.md)
+#### - [运行流水线](run-pipeline.md)
 
 通过本案例，体验一键部署和运行。
 
-### [任务调度](task-scheduling.md)
+#### - [任务调度](task-scheduling.md)
 
 通过本案例，体验资源分配的组合计算任务调度。
 
-### [状态监控和日志](monitoring.md)
+### [指标监控和日志](monitoring.md)
 
 本案例展示如何通过仪表板监控系统、应用和资源的各种指标。
 
@@ -93,6 +99,14 @@ Hello World! 恭喜，你联通CantorAI Network上的计算资源。
 
 ### API库
 
-CantorAI API。
+CantorAI为开发者提供APIs
+
+[Cantor APIs](cantor-apis.md)
+
+[Galaxy APIs](galaxy-apis.md)
 
 ### [CantorAI平台的项目开发模式](development-pattern.md)
+
+
+
+### [概念列表](concept-list.md)

@@ -29,3 +29,5 @@ There are many different computing architectures, including but not limited to: 
 ![已生成图片](images/composition-computing-architecture.png)
 
 在组合计算的架构里，第一视角不再是区分云、边、端等不同的网络和不同的设备。在组合计算网络里，每一个具有计算能力的节点被认为是具有不同能力的资源，网络是具有不同带宽和速度的数据管道，任务的完成以最优化全网络资源分配的基本原则完成。
+
+如果一定要从设备在网络中的位置的角度出发，

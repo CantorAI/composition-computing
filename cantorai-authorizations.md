@@ -1,19 +1,20 @@
-# Registrations and Authorizations
+# 注册和认证
 
-- 租户注册
-- 用户注册
-- 节点注册
+CantorAI 提供简便的用户管理，租户管理，全面的边缘设备和 IoT 节点注册功能，使其能够无缝集成到集群中。
 
-**CantorAI Portal**:CantorAI
+- **用户、租户和设备注册集成**:
+  - CantorAI 集成了云端的CantorAI门户（https://portal.cantorai.com)或本地注册中心，用于管理大规模边缘和 IoT 设备。
+  - 注册中心支持动态查询设备状态和配置管理。
 
-![image-20250410162426942](images/authorization.png)
+- **租户隔离注册**:
+  - 每个客户通过 **租户隔离注册** 实现数据和设备隔离。
+  - 使用公钥/私钥认证机制简化注册流程并提升安全性。
 
-**CantorAI Tenants**
+- **令牌验证**:
+  - 注册中心通过 **智能时间窗口** 验证令牌，确保未授权设备无法访问集群。
+  - 确保设备在严格认证条件下参与集群。
 
-![image-20250410162216490](images/tenant-center.png)
-
-**CantorAI Node**
-
-![image-20250410162710355](images/nodes.png)
-
-### 
+- [用户注册](user-regestration.md)
+- [租户注册](tenant-registration.md)
+- [节点注册](node-registration.md)
+- [节点检测](node-inspect.md)

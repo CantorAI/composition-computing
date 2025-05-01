@@ -1,4 +1,4 @@
-# Join the Network
+# 组网
 
 #### **P2P 集群网络**
 
@@ -23,26 +23,26 @@ Cantor 提供了一种点对点 (P2P) 架构，用于构建无中心节点集群
 
 
 
-#### **9. 资源管理**
+#### **资源管理**
 
 Cantor 提供高效的资源管理功能，确保任务执行的公平性和最优化。
 
 - **资源类型**:
-
   - **基于条件的资源**: 通过表达式定义资源，例如 `USBCamera == 1`。
   - **基于数量的资源**: 可消耗资源，例如 `GPU = 1`，每次任务分配后可用数量减少。
-
 - **全局资源账本 (Global Resource Ledger, GRL)**:
-
   - 每个节点维护一个本地的 GRL 快照，提供集群资源可用性的实时视图。
-
   - 资源变化通过集群广播进行传播。
 
-    
+### **组网案例**
 
-In this ue case, we will walk you through a use case how to setup a network of heterogeneous computers
+如下图所示的使用CantorAI Design Studio进行的组网样例：
 
-**CantorAI Cluster**
+- 在线注册节点列表：左侧工作区列出的是用户所属租户的所有当前在线的节点。
+- 集群构建：用户可以将左侧工作区的节点拖拽到中间工作区，构建集群，并通过连线来定义集群节点的拓扑结构。CantorAI支持将不同地域、不同型号、不同操作系统的计算节点和资源连接到一起，从而实现组合计算。
+- 资源定义：在右侧工作区，显示当前节点的属性信息（如：节点名称，ID，公网IP地址、局网IP地址，和端口等）和资源信息。不同的节点有不同的资源，比如CPU，GPU，内存等。CantorAI支持用户为节点自定义可定制资源。如下图中的节点（VECTOR-GAMEPC-W）拥有一个叫做"Detectron2"的资源，取值为1。用户用这种方式告诉整个CantorAI集群网络和分布式任务调度机制，该节点支持Detectron2模型推理，但在同一时间，只能支持1个Detectron2推理的任务。
 
-**CantorAI Resource**
+![image-20250423100456618](/Users/zonghuanwu/Library/Application Support/typora-user-images/image-20250423100456618.png)
+
+
 
