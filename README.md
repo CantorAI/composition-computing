@@ -1,3 +1,5 @@
+CantorAI 系统详细介绍，也即组合计算“白皮书” （草稿）
+
 # 组合计算 （composition-computing）
 
 ## 组合计算：一种新型的计算架构
