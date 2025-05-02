@@ -1,1 +1,1 @@
-![image-20250415193308281](/images/project-development-pattern.png)
+![image-20250415193308281](images/project-development-pattern.png)

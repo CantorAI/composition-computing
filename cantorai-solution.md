@@ -1,6 +1,6 @@
 # CantorAI平台的技术方案
 
-<img src="images/cantorai-components-arch.png" alt="image-20250415190728714" style="zoom:67%;" />
+<img src="images/cantorai-components-arch.png" alt="image-20250415190728714" style="zoom: 50%;" />
 
 CantorAI 平台包括三个核心组件——**XLang**、**Cantor** 和 **Galaxy**，并提供 **Galaxy Studio**，一个用于分布式平台管理的统一界面。**CantorAI 平台**通过抽象和统一管理计算资源和计算网络，降低分布式系统复杂性，并将算力与特定应用程序解耦的新编程模型来解决这些挑战。通过将数百或数千台机器的计算资源统一到一个共享的池中，CantorAI 允许多个项目高效地使用相同的基础设施。开发人员可以像在单台机器上运行一样编写分布式应用程序，简化了开发、最大化了计算资源利用率，并加速了 大规模分布式计算和AI 应用程序的开发、部署和运维。
 
