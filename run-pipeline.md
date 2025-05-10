@@ -6,5 +6,5 @@
 
 点击代表“观察运行界面”的眼睛图标，可以看到该pipeline的Web界面。
 
-- 运行结果界面
-  - 待添加
+![image-20250510103926265](images/pipeline-run.png)
+
