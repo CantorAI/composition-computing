@@ -1,4 +1,4 @@
-# Pipeline运行
+# 	Pipeline运行
 
 当点击运行按钮，pipeline可以被执行。在右侧面板，可以看到pipeline的实例被运行。
 
