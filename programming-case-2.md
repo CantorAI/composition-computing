@@ -1,5 +1,7 @@
 # 示例2：实时目标检测流水线（DetectFromPiCamMJPG 示例）
 
+Pipeline在：[CantorAI Home]\GalaxyStudio\Examples\Pipelines
+
 ![](images/pipeline-001.png)
 
 **案例描述**：该示例展现了如何构建一个实时视频流目标检测应用。数据源为树莓派摄像头（MJPG格式流），流水线对视频帧进行目标检测，并将结果叠加显示。

@@ -1,5 +1,7 @@
 # 示例3：大语言模型循环流水线（llm\_loop 示例）
 
+Pipeline见：[CantorAI Home]\GalaxyStudio\Examples\Pipelines
+
 ![image-20250625150826140](images/llmloop.png)
 
 **案例描述**：`llm_loop.yml` 展示了一个与大语言模型 (LLM) 交互的闭环流水线。看名称推测这是一个“LLM代理循环”，即通过流水线不断产生提示(prompt)、让LLM回复，并根据回复采取行动(action)，再决定下一步。
