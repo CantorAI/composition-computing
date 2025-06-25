@@ -1,4 +1,4 @@
-# Galaxy Base Filter API Reference
+# Galaxy Base Filter API 
 
 This document provides an overview of the Galaxy Base Filter API, including available classes, properties, and methods. It is auto-generated based on `APISET().AddClass`, `AddPropL`, `AddProp0`, `AddFunc`, and `AddVarFunc` usage within the source code.
 

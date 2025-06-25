@@ -1,7 +1,4 @@
-
----
-
-# Cantor Host - XLang APIs Documentation
+# Cantor Host - XLang APIs
 
 The `Cantor Host` class provides several APIs that can be accessed through XLang for interacting with data views, frames, and runtime operations. These APIs are designed to be used either inside the Cantor process (directly imported) or from a standalone process (using shared memory for remote access).
 

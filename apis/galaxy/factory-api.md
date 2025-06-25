@@ -1,4 +1,4 @@
-# Factory API Reference
+# Factory API
 
 This document provides API documentation for the `Factory` class in the Galaxy namespace. The `Factory` class is a singleton orchestrator responsible for managing pipelines, filters, training jobs, and runtime interaction with the Cantor framework.
 
@@ -114,6 +114,3 @@ frame = factory.NewDataFrame()
 def SetCantor(cantor: object) -> bool:
     """Associates a remote Cantor runtime object and initializes factory integration."""
 ```
-**Usage**:
-```python
-fac

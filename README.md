@@ -5,7 +5,7 @@ CantorAI 系统详细介绍，也即组合计算“白皮书”
 ## 组合计算：一种新型的计算架构
 ### [组合计算](composition-computing.md) 
 
-### [计算发展的历史和趋势](computing-history-trend.md)
+### [计算的发展的历史和趋势](computing-history-trend.md)
 
 ### 当前的计算的架构和技术方案​
 

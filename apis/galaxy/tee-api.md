@@ -1,4 +1,4 @@
-# Tee API Reference
+# Tee API
 
 The `Tee` class in the Galaxy namespace is a filter that duplicates a single input stream into multiple output streams. It is useful for branching data to multiple consumers in a pipeline, much like the Unix `tee` command.
 
@@ -77,4 +77,3 @@ tee.FromBytes(stream: XLStream) -> bool
 
 - The `Tee` filter is a passive component — it does not alter data but forwards it.
 - FPS is tracked using the `Stats` utility to monitor performance.
-

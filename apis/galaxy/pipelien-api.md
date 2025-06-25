@@ -1,4 +1,4 @@
-# Pipeline API Reference
+# Pipeline API
 
 The `Pipeline` class in the Galaxy namespace provides an interface to construct and manage filter-based processing pipelines. It supports runtime composition of filters, graph construction, and execution control, making it well-suited for building dynamic and flexible data processing flows.
 
@@ -148,6 +148,4 @@ pipeline.Stop()
 ```
 
 **Details**: Halts pipeline execution gracefully.
-
----
 

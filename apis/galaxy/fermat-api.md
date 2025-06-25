@@ -1,4 +1,4 @@
-# Fermat API Reference
+# Fermat API
 
 The `Fermat` class in the Galaxy namespace is a specialized filter derived from `BaseFilter`, intended for high-performance frame processing within a pipeline. It supports serialization, runtime control, and interaction with external sources like GStreamer for video data input.
 
@@ -110,6 +110,4 @@ fermat.QueryNewframe(buf: bytes, bufSize: int, id: int,
 **Description**: Used to query a new frame's metadata and buffer.
 
 **Details**: Often called in native/low-level integration scenarios to retrieve video frames.
-
----
 

@@ -1,4 +1,4 @@
-# Dataset API Reference
+# Dataset API
 
 This document provides API documentation for the `Dataset` class in the Galaxy namespace, including its methods and properties.
 
@@ -72,6 +72,4 @@ dataset.AddFile("/data/images/image1.jpg")
 **Details**:
 - Useful for manually appending specific files.
 - Returns `True` if the file is added successfully.
-
----
 

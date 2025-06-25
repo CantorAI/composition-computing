@@ -1,7 +1,4 @@
-
----
-
-# Cantor Network - XLang APIs Documentation
+# Cantor Network - XLang APIs 
 
 The `Cantor Network` class provides a simplified interface to manage networking operations such as starting/stopping servers, connecting to servers, and handling networking events.
 

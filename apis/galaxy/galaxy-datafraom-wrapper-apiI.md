@@ -1,4 +1,4 @@
-# GalaxyDataFrameWrapper API Reference
+# GalaxyDataFrameWrapper API
 
 This document provides the API documentation for the `GalaxyDataFrameWrapper` class, including all available properties and methods. This class is a wrapper for data frame handling in the Galaxy system, designed for data transport and binary exchange.
 

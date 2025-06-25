@@ -1,6 +1,6 @@
-# Composition Computing - 组合计算
+# 组合计算(Composition Computing)
 
-<img src="/Users/zonghuanwu/github/composition-computing/images/comp-comp-concept.png" alt="image-20250625152447518" style="zoom:50%;" />
+<img src="images/comp-comp-concept.png" alt="image-20250625152447518" style="zoom:50%;" />
 
 AI 时代的特点是对计算资源和高效处理海量数据集的前所未有的需求。特别是涉及深度学习和实时数据处理的 AI 应用，需要分布式系统的集体力量来满足性能和可扩展性的需求。然而，编程和管理如此大规模的分布式系统带来了重大挑战。开发人员经常面临与网络通信、同步、资源管理和容错相关的复杂问题。
 
