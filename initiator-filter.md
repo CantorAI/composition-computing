@@ -9,6 +9,6 @@
 
 ### 举例
 
-![image-20250501062706502](/Users/zonghuanwu/github/composition-computing/initiator-filter.png)
+![image-20250501062706502](images/initiator-filter.png)
 
 由上图可见，在这个流水线中，第一个滤波器是`initiator`滤波器，被用户命名为“Start”。它没有输入脚`Input Pins`。有一个输出脚`Output Pins`，连到下游的`Fermat`滤波器。在它的描述里，表明`initiator`滤波器作为Pipeline的启动器。
