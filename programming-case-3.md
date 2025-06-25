@@ -1,4 +1,4 @@
-# 大语言模型循环流水线（llm\_loop 示例）
+# 示例3：大语言模型循环流水线（llm\_loop 示例）
 
 ![image-20250625150826140](images/llmloop.png)
 

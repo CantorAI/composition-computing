@@ -1,4 +1,4 @@
-# 实时目标检测流水线（DetectFromPiCamMJPG 示例）
+# 示例2：实时目标检测流水线（DetectFromPiCamMJPG 示例）
 
 ![](images/pipeline-001.png)
 
