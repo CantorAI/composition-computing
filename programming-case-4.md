@@ -1,4 +1,4 @@
-# 示例4：综合应用（main.x）
+# 4.1.4 示例4：综合应用（main.x）
 
 文件见：[CantorAI Home]\GalaxyStudio\main.x
 

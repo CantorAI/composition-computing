@@ -1,4 +1,4 @@
-# Cantor DataFrame - XLang APIs
+# 5.1.2 Cantor DataFrame - XLang APIs
 
 The `Cantor DataFrame` class provides a comprehensive set of APIs to interact with and manipulate data frames. It includes properties for metadata, formats, and data management, along with functions for accessing and modifying the frame's contents.
 

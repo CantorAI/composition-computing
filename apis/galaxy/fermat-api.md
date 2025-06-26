@@ -1,4 +1,4 @@
-# Fermat API
+# 5.2.6 Fermat API
 
 The `Fermat` class in the Galaxy namespace is a specialized filter derived from `BaseFilter`, intended for high-performance frame processing within a pipeline. It supports serialization, runtime control, and interaction with external sources like GStreamer for video data input.
 

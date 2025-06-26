@@ -1,4 +1,4 @@
-# Factory API
+# 5.2.2 Factory API
 
 This document provides API documentation for the `Factory` class in the Galaxy namespace. The `Factory` class is a singleton orchestrator responsible for managing pipelines, filters, training jobs, and runtime interaction with the Cantor framework.
 

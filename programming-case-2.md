@@ -1,4 +1,4 @@
-# 示例2：实时目标检测流水线（DetectFromPiCamMJPG 示例）
+# 4.1.2 示例2：实时目标检测流水线（DetectFromPiCamMJPG 示例）
 
 Pipeline在：[CantorAI Home]\GalaxyStudio\Examples\Pipelines
 

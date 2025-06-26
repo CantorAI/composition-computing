@@ -1,4 +1,4 @@
-# CantorAI 过滤器 （Filters）
+# 3.4.2 CantorAI 过滤器 （Filters）
 
 **过滤器`filter` 是 CantorAI 平台中用于处理数据流（DataFlow）的模块化组件，可以包装任意的 AI 和机器学习模型、算法或逻辑单元，作为分布式流水线（Pipeline）中的处理节点。**
 

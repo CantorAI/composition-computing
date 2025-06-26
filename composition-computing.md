@@ -1,4 +1,4 @@
-# 组合计算(Composition Computing)
+# 1.1 组合计算(Composition Computing)
 
 <img src="images/comp-comp-concept.png" alt="image-20250625152447518" style="zoom:50%;" />
 

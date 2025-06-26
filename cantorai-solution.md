@@ -1,4 +1,4 @@
-# CantorAI平台的技术方案
+# 1.4.2 CantorAI平台的技术方案
 
 <img src="images/cantorai-components-arch.png" alt="image-20250415190728714" style="zoom: 50%;" />
 

@@ -1,4 +1,4 @@
-# Tee API
+# 5.2.7 Tee API
 
 The `Tee` class in the Galaxy namespace is a filter that duplicates a single input stream into multiple output streams. It is useful for branching data to multiple consumers in a pipeline, much like the Unix `tee` command.
 

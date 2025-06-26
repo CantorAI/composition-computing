@@ -1,4 +1,4 @@
-# 开始使用
+# 2.2 开始使用
 
 CantorAI系统提供GUI工具和API编程接口。初次使用CantorAI系统，可以从使用其GUI工具（ `Galaxy Studio`）入手。
 

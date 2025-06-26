@@ -1,4 +1,4 @@
-# Metrics - XLang APIs
+# 5.1.3 Metrics - XLang APIs
 
 The `Metrics` class provides a comprehensive interface for managing and querying metrics in the Cantor framework. It supports registering, querying, and removing metrics for various objects and instances.
 

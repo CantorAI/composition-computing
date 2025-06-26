@@ -1,4 +1,4 @@
-# Dataset API
+# 5.2.4 Dataset API
 
 This document provides API documentation for the `Dataset` class in the Galaxy namespace, including its methods and properties.
 

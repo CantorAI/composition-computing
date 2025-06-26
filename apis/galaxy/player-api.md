@@ -1,4 +1,4 @@
-# Player API
+# 5.2.8 Player API
 
 The `Player` class in the Galaxy namespace is a frame-synchronization and timing-aware filter that consumes multiple input pins and aligns frames based on timestamp. It is commonly used for synchronized playback or merging of multi-source inputs.
 
