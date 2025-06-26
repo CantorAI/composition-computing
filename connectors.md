@@ -35,24 +35,21 @@
 
 #### 举例：
 
-- 在以下的实例里
+在以下的实例里，可以看到在流水线上，各连接基本上都不需要被申明为**强连接**。这样，数据和任务可以在不同节点流动。只有在图四中的连接（红色）被申明为"In-node Connection"，表示为**强连接**，这表示数据（例子中是视频流）将被限制在同一节点进行处理。
 
-  connect as task, 
+- 图一![image-20250501063043230](images/connector1.png)
 
-- ![image-20250501063043230](/images/connector1.png)
+  图二![image-20250501062951119](images/connector2.png)
 
-  ![image-20250501062951119](/images/connector2.png)
+  图三
+
+  ![image-20250501063105247](images/connector3.png)
+
+- 图四![image-20250501063127375](images/connector4.png)
+
+- 图五![image-20250501063146616](images/connector5.png)
 
   
-
-  ![image-20250501063105247](/images/connector3.png)
-
-- ![image-20250501063127375](/images/connector4.png)
-
-- ![image-20250501063146616](/images/connector5.png)
-
-  - 强连接的快照
-  - 弱连接的快照
 
 ### 总结：
 
