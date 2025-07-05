@@ -21,22 +21,15 @@ CantorAI系统提供GUI工具和API编程接口。初次使用CantorAI系统，�
 
 ---
 
-With this example, you will be able to login to CantorAI Design Studio for the first time and enter the gate of the world of CantorAI's composition computing platform. 
+- 通过这个示例，你将能够首次登录 CantorAI 设计工作室，迈入 CantorAI 组合计算平台的世界大门。
 
-##### Concepts:
-
-- **CantorAI Design Studio**: It is a front-end tool designed to 
-
-  - ease most of your configurations of your composition computing network with simple mouse clicks and a few keystrokes,
-  - visualize your network assets and their organization, 
-  - help to construct your apps with a visualized pipeline building mechanism,
-  - customize dashboard and monitor systemetic, applicational  matrics 
+  **相关概念说明：**
+  **CantorAI 设计工作室（CantorAI Design Studio）：**
+  这是一个前端工具，旨在通过简单的鼠标点击和少量键盘操作，帮助你轻松完成组合计算网络的大部分配置工作。它可以可视化你的网络资产及其组织结构，支持通过可视化的流水线构建机制来搭建应用程序，并可自定义仪表盘和监控系统级及应用级的各类指标。
   
-  However, CantorAI Design studio should not be regarded as a all-in-one venue to conduct all the development. We do assume its user has reasonable knowledge how CantorAI technology works. 
+  但请注意，CantorAI 设计工作室并不是一个用于完成所有开发任务的一体化平台。我们假设用户已经具备对 CantorAI 技术原理的基本了解。
   
-  
-  
-  Example：启动CantorAI Design Studio
+  例：启动CantorAI Design Studio
   
   - 在装有Cantor计算框架的任意节点，执行Cantor命令，即可启动Cantor系统。在这个时候，在本机打开互联网浏览器（如chrome，Firefox等），在地址栏输入：https://localhost:9719，则可以运行本机的CantorAI Design Studio。
   
